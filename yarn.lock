@@ -2076,6 +2076,11 @@ find-up@^3.0.0:
   dependencies:
     locate-path "^3.0.0"
 
+fireworks-canvas@^2.3.1:
+  version "2.3.1"
+  resolved "https://registry.yarnpkg.com/fireworks-canvas/-/fireworks-canvas-2.3.1.tgz#da4a5421a0ee83a3d2e71ac23bd76dd8debefef9"
+  integrity sha512-orLfUT9ScCQ27biRfGkLCeMbK/K92rmxRE+lxgXg65UxgJmnpUiS2kNyJ7OP9axtGiQU3eN2Dj+TLrT+JGiCXw==
+
 flush-write-stream@^1.0.0:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/flush-write-stream/-/flush-write-stream-1.0.3.tgz#c5d586ef38af6097650b49bc41b55fabb19f35bd"

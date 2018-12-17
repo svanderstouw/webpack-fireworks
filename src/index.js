@@ -1,3 +1,4 @@
-import works from './main';
- 
-works();
+import main from './main'
+import './main.css'
+
+main()
